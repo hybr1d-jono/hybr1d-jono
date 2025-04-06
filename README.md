@@ -2,8 +2,7 @@
 - 👀 I’m interested in sharing my journey as I evolve into Test Automation and AI to better equip myself while showcasing some of my work along the way.
 - 🌱 I’m currently using UDEMY to learn basic coding concepts aswell as learning 1 on 1 inperson with work colleagues who have more knowledge on Test Automation
 - 💞️ I’m looking to collaborate on all areas of Quality Assurance.
-  - 
- "Tell me and I forget; teach me and I remember; involve me and I learn." 
+  -  "Tell me and I forget; teach me and I remember; involve me and I learn." 
 - 📫 How to reach me ... Linkedin
 - ⚡ Fun fact: ... Im a late bloomer who has rediscovered a passion for learning new concepts, ideas and skills 
 
