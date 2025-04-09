@@ -10,7 +10,6 @@ Hi, I’m Jonathan - I have been in the Quality Assurance field for over 10 year
 Times are changing and in turn I need to evolve with change so I’m interested in sharing my journey as I look to better equip myself in my chosen field of Quality Assurance while showcasing some of my work along the way.
 
 ## My Portfolio  
-Tools 🔧  
 List of Tools I use on a day to day level at my current workplace
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Jira">
