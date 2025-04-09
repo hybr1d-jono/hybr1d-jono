@@ -3,7 +3,7 @@
 ## About Me 👋   
 Hi, I’m Jonathan - I have been in the Quality Assurance field for over 10 years and predominantly as a Manual Tester but learning Test Automation as a side hobby. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jonathan_Flavell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qajono/)](https://www.linkedin.com/in/qajono/) [![Gmail Badge](https://img.shields.io/badge/-jflavell@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jflavell@gmail.com)](mailto:jflavell@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Jonathan_Flavell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qajono/)](https://www.linkedin.com/in/qajono/) [![Hotmail Badge](https://img.shields.io/badge/-jflavell@hotmail.com-c14438?style=flat-square)](mailto:jflavell@hotmail.com) 
 <p align="left">
 
 ## Why Am I here 🏢  
