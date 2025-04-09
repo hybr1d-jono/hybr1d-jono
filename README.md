@@ -14,11 +14,11 @@ Tools 🔧
 List of Tools I use on a day to day level at my current workplace
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Xray-3670A0?style=for-the-badge" alt="Xray">
-  <img src="https://img.shields.io/badge/Playwright-3670A0?style=for-the-badge" alt="Playwright">
-  <img src="https://img.shields.io/badge/Visual-Studio-3670A0?style=for-the-badge" alt="VisualStudio">
+  <img src="https://img.shields.io/badge/mysql-%000.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">
+  <img src="https://img.shields.io/badge/react-%000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Xray-000?style=for-the-badge" alt="Xray">
+  <img src="https://img.shields.io/badge/Playwright-000?style=for-the-badge" alt="Playwright">
+  <img src="https://img.shields.io/badge/Visual-Studio-000?style=for-the-badge" alt="VisualStudio">
   <img src="https://img.shields.io/badge/Confluence-000?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
   <img src="https://img.shields.io/badge/Slack-000?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
   <img src="https://img.shields.io/badge/Datadog-000?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog">
@@ -30,9 +30,8 @@ List of Tools I use on a day to day level at my current workplace
   <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=white" alt="postman">
   <img src="https://img.shields.io/badge/Insomnia-000?style=for-the-badge&logo=insomnia&logoColor=white" alt="insomnia">
   <img src="https://img.shields.io/badge/Playwright-000?style=for-the-badge&logo=gitLab&logoColor=white" alt="gitLab">
-  <img src="https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitLab&logoColor=white" alt="gitLab">
-Tools I have used at previous workplaces  
-  <img src="https://img.shields.io/badge/Zephyr-3670A0?style=for-the-badge" alt="Zephyr">
+  <img src="https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitLab&logoColor=white" alt="gitLab">  
+  <img src="https://img.shields.io/badge/Zephyr-000?style=for-the-badge" alt="Zephyr">
   <img src="https://img.shields.io/badge/TeamCity-000?style=for-the-badge&logo=teamcity&logoColor=white" alt="teamcity"
 </p>
 
