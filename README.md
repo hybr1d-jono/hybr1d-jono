@@ -7,11 +7,24 @@ Hi, I’m Jonathan - I have been in the Quality Assurance field for over 10 year
 <p align="left">
 
 ## Why Am I here 🏢  
-Times are changing and in turn I need to evolve with change so I’m interested in sharing my journey as I look to better equip myself in my chosen field of Quality Assurance while showcasing some of my work along the way.   
+Times are changing and in turn I need to evolve with change so I’m interested in sharing my journey as I look to better equip myself in my chosen field of Quality Assurance while showcasing some of my work along the way.
 
 ## My Portfolio  
 Tools 🔧  
 List of Tools I use on a day to day level at my current workplace
+<p align="center">
+  <img src="https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+</p>
 Jira  
 XRay  
 Confluence  
