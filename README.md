@@ -16,33 +16,25 @@ List of Tools I use on a day to day level at my current workplace
   <img src="https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
-  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
-  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
-  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
-  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
-  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
-  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
-</p>
-Jira  
-XRay  
-Confluence  
-Slack  
-Datadog  
-SauceLabs  
-AWS  
-Chrome Dev Tools  
-GitHub  
-Gitlab  
-Postman  
-Insomnia  
-Playwright  
-Visual Studio  
-  
+  <img src="https://img.shields.io/badge/Xray-3670A0?style=for-the-badge" alt="Xray">
+  <img src="https://img.shields.io/badge/Playwright-3670A0?style=for-the-badge" alt="Playwright">
+  <img src="https://img.shields.io/badge/Visual-Studio-3670A0?style=for-the-badge" alt="VisualStudio">
+  <img src="https://img.shields.io/badge/Confluence-000?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
+  <img src="https://img.shields.io/badge/Slack-000?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+  <img src="https://img.shields.io/badge/Datadog-000?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog">
+  <img src="https://img.shields.io/badge/Saucelabs-000?style=for-the-badge&logo=saucelabs&logoColor=white" alt="Saucelabs">
+  <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazonwebservices">
+  <img src="https://img.shields.io/badge/Google-Chrome-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="googlechrome">
+  <img src="https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitLab&logoColor=white" alt="gitLab">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="github">
+  <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=white" alt="postman">
+  <img src="https://img.shields.io/badge/Insomnia-000?style=for-the-badge&logo=insomnia&logoColor=white" alt="insomnia">
+  <img src="https://img.shields.io/badge/Playwright-000?style=for-the-badge&logo=gitLab&logoColor=white" alt="gitLab">
+  <img src="https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitLab&logoColor=white" alt="gitLab">
 Tools I have used at previous workplaces  
-Team City  
-Zephyr  
+  <img src="https://img.shields.io/badge/Zephyr-3670A0?style=for-the-badge" alt="Zephyr">
+  <img src="https://img.shields.io/badge/TeamCity-000?style=for-the-badge&logo=teamcity&logoColor=white" alt="teamcity"
+</p>
 
 ## Tech Skills💻  
 SQL  
