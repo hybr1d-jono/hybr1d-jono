@@ -18,13 +18,13 @@ List of Tools I use on a day to day level at my current workplace
   <img src="https://img.shields.io/badge/react-000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/Xray-000?style=for-the-badge" alt="Xray">
   <img src="https://img.shields.io/badge/Playwright-000?style=for-the-badge" alt="Playwright">
-  <img src="https://img.shields.io/badge/Visual-Studio-000?style=for-the-badge" alt="VisualStudio">
+  <img src="https://img.shields.io/badge/Visual_Studio-000?style=for-the-badge" alt="VisualStudio">
   <img src="https://img.shields.io/badge/Confluence-000?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
   <img src="https://img.shields.io/badge/Slack-000?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
   <img src="https://img.shields.io/badge/Datadog-000?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog">
   <img src="https://img.shields.io/badge/Saucelabs-000?style=for-the-badge&logo=saucelabs&logoColor=white" alt="Saucelabs">
   <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazonwebservices">
-  <img src="https://img.shields.io/badge/Google-Chrome-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="googlechrome">
+  <img src="https://img.shields.io/badge/Google_Chrome-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="googlechrome">
   <img src="https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitLab&logoColor=white" alt="gitLab">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="github">
   <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=white" alt="postman">
