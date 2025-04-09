@@ -14,8 +14,8 @@ Tools 🔧
 List of Tools I use on a day to day level at my current workplace
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/mysql-%000.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">
-  <img src="https://img.shields.io/badge/react-%000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">
+  <img src="https://img.shields.io/badge/react-000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/Xray-000?style=for-the-badge" alt="Xray">
   <img src="https://img.shields.io/badge/Playwright-000?style=for-the-badge" alt="Playwright">
   <img src="https://img.shields.io/badge/Visual-Studio-000?style=for-the-badge" alt="VisualStudio">
