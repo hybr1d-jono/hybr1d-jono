@@ -7,9 +7,7 @@ Hi, I’m Jonathan - I have been in the Quality Assurance field for over 10 year
 <p align="left">
 
 ## Why Am I here 🏢  
-I’m interested in sharing my journey as I evolve into Test Automation and AI to better equip myself while showcasing some of my work along the way.  
-I’m currently using UDEMY to learn basic coding concepts aswell as learning 1 on 1 inperson with work colleagues who have more knowledge on Test Automation  
-I’m looking to collaborate on all areas of Quality Assurance.  
+Times are changing and in turn I need to evolve with change so I’m interested in sharing my journey as I look to better equip myself in my chosen field of Quality Assurance while showcasing some of my work along the way.   
 
 ## My Portfolio  
 Tools 🔧  
