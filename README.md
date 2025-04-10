@@ -79,6 +79,10 @@ Functional
 Non-Functional
 - API Load testing
 
+## Projects
+EPL fantasy site created by using Co-Pilot  
+Club Sport Admin  
+
 ## Other Stuff
   
 ![Jono's github stats](https://github-readme-stats.vercel.app/api?username=hybr1d-jono&show_icons=true&hide=[%22issues%22])
