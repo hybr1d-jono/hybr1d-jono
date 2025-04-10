@@ -33,7 +33,8 @@ List of Tools I use on a day to day level at my current workplace
   <img src="https://img.shields.io/badge/Playwright-000?style=for-the-badge&logo=gitLab&logoColor=white" alt="gitLab">
   <img src="https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitLab&logoColor=white" alt="gitLab">  
   <img src="https://img.shields.io/badge/Zephyr-000?style=for-the-badge" alt="Zephyr">
-  <img src="https://img.shields.io/badge/TeamCity-000?style=for-the-badge&logo=teamcity&logoColor=white" alt="teamcity"
+  <img src="https://img.shields.io/badge/TeamCity-000?style=for-the-badge&logo=teamcity&logoColor=white" alt="teamcity">
+  <img src="https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana">
 </p>
 
 ## Tech Skills💻  
