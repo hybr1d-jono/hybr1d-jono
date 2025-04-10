@@ -1,4 +1,4 @@
-![QA banner v3](https://github.com/user-attachments/assets/4ad35349-b3eb-43e4-ad5f-dd99015e4403)
+![QA banner v2](https://github.com/user-attachments/assets/7ad42b51-76d5-4940-bb3f-e4ca1681eca7)
 
 <h2>"Tell me and I forget; teach me and I remember; involve me and I learn." </h2> 
 
