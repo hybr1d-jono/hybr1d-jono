@@ -54,6 +54,7 @@ Scrum workflow
 ## Testing Examples
 Functional
 - API
+
 Non-Functional
 - API Load testing
 
