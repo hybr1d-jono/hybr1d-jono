@@ -51,6 +51,12 @@ Performing smoke tests
 Testing UAT  
 Scrum workflow  
 
+## Testing Examples
+Functional
+- API
+Non-Functional
+- API Load testing
+
 ## Other Stuff
   
 ![Jono's github stats](https://github-readme-stats.vercel.app/api?username=hybr1d-jono&show_icons=true&hide=[%22issues%22])
