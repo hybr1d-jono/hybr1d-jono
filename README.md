@@ -3,7 +3,27 @@
 <h2>"Tell me and I forget; teach me and I remember; involve me and I learn." </h2> 
 
 ## About Me 👋   
-Hi, I’m Jonathan - I have been in the Quality Assurance field for over 10 years and predominantly as a Manual Tester but learning Test Automation as a side hobby. 
+```python
+ class WhoAmI:
+ 	user = 'Jonathan Flavell'
+		current_work = 'Qaulity Assurance'
+		experience = 'I have been in the Quality Assurance field for over 10 years'
+		hobbies = [
+				'Travel',
+				'Sport',
+				'Nature Walks'
+				'Finding Defects ;p'
+			]
+	
+	def getCity():
+		return Auckland_New_Zealand()
+	
+	def Ambitions():
+		LearnAutomation()
+		LearnLeadership()
+		EvolveQA()
+	
+ ```
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan_Flavell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qajono/)](https://www.linkedin.com/in/qajono/) [![Hotmail Badge](https://img.shields.io/badge/-jflavell@hotmail.com-c14438?style=flat-square)](mailto:jflavell@hotmail.com) 
 <p align="left">
