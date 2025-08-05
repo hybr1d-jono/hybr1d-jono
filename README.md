@@ -73,11 +73,19 @@ Testing UAT
 Scrum workflow  
 
 ## Testing Examples
-Functional
-- API
-
-Non-Functional
-- API Load testing
+Manual Testing
+- Test Planning
+- Bug Life Cycle
+- Test Case
+- Test Scenarios
+- Bug Reports
+Tools
+- Jira
+Concepts
+- Functional
+- Regression
+- Smoke
+- UAT
 
 ## Projects
 EPL fantasy site created by using Co-Pilot  
