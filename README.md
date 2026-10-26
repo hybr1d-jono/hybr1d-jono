@@ -27,42 +27,69 @@ class WhoAmI:
 
 ## Why Am I Here 🏢
 
-Times are changing, and I'm changing with them. I'm sharing my journey as I keep levelling up in Quality Assurance, and showcasing some of the work I've delivered along the way.
+Times are changing, and I'm changing with them. I'm sharing my journey as I keep levelling up in Quality Assurance and Business Analysis, and showcasing some of the work I've delivered along the way.
 
 ## Featured Work 🚀
 
 > Work delivered at my current role on a veterinary practice management SaaS platform. Described at a high level to respect confidentiality, so no internal code or ticket details are shared.
 
-**At a glance:** 45+ merged changes across the product monorepo and supporting services, spanning end-to-end automation, test infrastructure and internal QA tooling.
+Samples of my work across business analysis and quality assurance: requirements discovery, product and process documentation, and runnable test code.
 
-### 💰 Financial & Billing E2E Automation (Playwright)
-**Problem:** The money side of the product (invoicing, estimates, statements, tax) carried the highest risk and leaned on manual regression.
-**What I did:** Built Playwright end-to-end journeys for invoice creation and approval, estimates, statements reports, price adjustment rules, financial lockdown, payment terms due-date logic, revenue and commission reporting, and invoice PDF printing. Added tests that prove invoice tax totals, including negative-quantity lines.
-**Why it matters:** Billing bugs cost customers money and trust. These journeys catch them before release.
+Most of my professional work lives in private company repos, so everything here is either recreated against a fictional demo app or sanitised to remove company code, names and data. The approach and reasoning are the real thing.
 
-### 🧪 Broader Product Coverage
-**What I did:** Extended E2E coverage into communications (email and SMS sending, automated communication tasks), bookings and planning, contact record CRUD, time clock, and supplier integration guards.
-**Why it matters:** Took coverage beyond one team's area into core day-to-day clinic workflows.
+What's in here
 
-### 🛠️ Test Suite Reliability
-**Problem:** Flaky tests erode trust in automation and slow every release.
-**What I did:** Removed unjustified force clicks, moved selectors to stable test IDs, pinned seeded test data, fixed timing issues, added type checking, and retired dead specs and orphaned helpers.
-**Why it matters:** A suite people trust is a suite people actually use.
+Grouped from analysis and product thinking, through quality strategy, to hands-on testing.
 
-### 📚 Test Catalogue & Coverage Tracking
-**What I did:** Re-catalogued the automated test suite across 37 product areas, and built a coverage tracker with two-way sync and per-team counts.
-**Why it matters:** Gives leadership a clear view of where coverage is strong and where the gaps are.
+1. Business Analysis & Product Thinking
+Sample	Shows
+Discovery: Invoice-Level Sales Tax Cap	Requirements discovery, decision logs, domain research, stakeholder facilitation
+User Journey Template	Persona-driven journeys written from the user's point of view, doubling as a coverage tracker
+FQI Metrics	Designing a quality metric and building repeatable reporting from source data
+Retro Facilitation	Scrum master practice: turning team discussion into owned, measurable actions
+2. Quality Strategy & Leadership
+Sample	Shows
+Deciding What to Automate	Risk-based prioritisation framework: WHAT, WHICH, WHERE
+E2E Failure Triage	Root-cause analysis, separating environment issues from flaky tests from real bugs
+Automation Champion Guide	Coaching manual testers into automation
+3. Hands-on Testing & Engineering
+Sample	Shows
+Merge Request Write-ups	Real changes I merged: what the problem was, what I did, why it mattered
+XSS Testing Guide	Security testing method for verifying XSS fixes
+Playwright E2E tests	Page objects, stable locators, shared helpers, data-driven scenarios
+Unit tests	Characterisation tests for tax logic, including edge cases
 
-### 🔍 Bug Analysis Platform
-**What I did:** Built an internal tool that analyses the bug corpus, including a dashboard designed so the data can't be misread. The analysis showed the backlog was blind to 71% of one major code area. Containerised and deployed the service, fixed Windows compatibility for the test suite, and I'm currently shipping it behind SSO.
-**Why it matters:** Turns raw defect data into decisions about where to focus testing.
+How it connects: the tax cap discovery defines the business rules, the user journey describes them from the customer's side, and the tests prove them.
 
-### 🤖 AI-Assisted QA
-**What I did:** Building AI skills and prompt templates that support the QA lifecycle, from test planning through to bug analysis, and contributing fixes to an internal AI skills marketplace.
-**Why it matters:** Makes QA faster and more consistent across teams.
+Run it (under 5 minutes)
 
-### 💳 Earlier: Payments Domain Testing (Fintech)
-Started in support at a Kiwi fintech and moved into testing, specialising in the payments domain.
+Needs Node 20+.
+
+bash
+git clone https://github.com/hybr1d-jono/ba-qa-portfolio.git
+cd ba-qa-portfolio
+npm install
+npx playwright install chromium
+npm test
+
+npm test runs the unit tests, starts the demo app, and runs the Playwright suite against it. To poke at the app yourself, run npm run demo and open http://localhost:4173.
+
+Project layout
+demo-app/            Fictional "ClinicBill" invoice app the tests run against
+  tax.js             Tax logic: per-line tax, optional invoice-level cap
+tests/
+  unit/              Node test runner, no browser needed
+  e2e/
+    pages/           Page objects
+    helpers/         Shared helpers (e.g. a toast wait that won't flake)
+    *.spec.ts        Playwright specs
+docs/                Sanitised documentation samples
+.github/workflows/   CI: runs everything on every push
+Things worth looking at in the code
+No force clicks, no sleeps. Every wait is an assertion on something real.
+Stable locators only. Every element is found by data-testid.
+The toast helper. The demo app's save takes 1.5 seconds on purpose. A 1 second wait would fail. This mirrors a real fix I made that stabilised five tests at once.
+Scenarios as data. The tax cap tests loop over a scenario table that matches the discovery doc.
 
 ## Tech Skills 💻
 
