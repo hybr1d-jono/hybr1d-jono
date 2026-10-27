@@ -27,7 +27,7 @@ class WhoAmI:
 
 ## Why Am I Here 🏢
 
-Times are changing, and I'm changing with them. I'm sharing my journey as I keep levelling up in Quality Assurance and Business Analysis, and showcasing some of the work I've delivered along the way.
+Times are changing, and I'm changing with them. I'm sharing my journey as I keep levelling up in Quality Assurance and Business Analysis while showcasing some of the work I've delivered along the way.
 
 ## 📂 Portfolio
 
@@ -116,10 +116,6 @@ Started in support at a Kiwi fintech and moved into testing, specialising in the
   <img src="https://img.shields.io/badge/Google_Chrome-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Google Chrome">
 </p>
 
-## Side Projects 🏗️
-
-- **EPL Fantasy Site:** built with the help of GitHub Copilot
-- **Club Sport Admin**
 
 ## Other Stuff
 
