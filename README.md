@@ -27,7 +27,7 @@ class WhoAmI:
 
 ## Why Am I Here 🏢
 
-Times are changing, and I'm changing with them. I'm sharing my journey as I keep levelling up in Quality Assurance, and showcasing some of the work I've delivered along the way.
+Times are changing, and I'm changing with them. I'm sharing my journey as I keep levelling up in Quality Assurance and Business Analysis, and showcasing some of the work I've delivered along the way.
 
 ## 📂 Portfolio
 
